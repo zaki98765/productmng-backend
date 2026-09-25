@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 16",
+      "category": "Electronics",
+      "price": 79999,
+      "stock": 12,
+      "description": "Latest Apple smartphone with powerful performance.",
+      "image": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd"
+    },
+    {
+      "id": "2",
+      "name": "Nike Air Max",
+      "category": "Footwear",
+      "price": 8999,
+      "stock": 25,
+      "description": "Comfortable and stylish shoes for everyday use.",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+    },
+    {
+      "id": "3",
+      "name": "MacBook Air M3",
+      "category": "Electronics",
+      "price": 114999,
+      "stock": 5,
+      "description": "Lightweight and powerful laptop for work and development.",
+      "image": "https://images.unsplash.com/photo-1517336714739-489689fd1ca8"
+    }
+  ]
+}
